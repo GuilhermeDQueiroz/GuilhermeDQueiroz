@@ -1,4 +1,4 @@
- <h1 align="center">Olá! Eu sou o Thiago Freitas 👋</h1>
+ <h1 align="center">Olá! Eu sou o Guilherme Diniz 👋</h1>
 <p align="center">
   <em>Estudante de Ciência da Computação e Desenvolvedor focado em transformar dados em decisões e construir soluções escaláveis. Atualmente baseado em Ubá, Minas Gerais.</em>
 </p>
