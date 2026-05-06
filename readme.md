@@ -31,8 +31,8 @@ Estudante de Ciência da Computação e Desenvolvedor focado em transformar dado
 - **Controle de Acesso Power BI + Supabase:** Implementação de camadas de segurança e autenticação personalizada para relatórios.
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDQueiroz&layout=compact&theme=vision-friendly-dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeDQueiroz&show_icons=true&theme=vision-friendly-dark)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDQueiroz&layout=compact&theme=vision-friendly-dark)
+(https://github-readme-stats.vercel.app/api?username=GuilhermeDQueiroz&show_icons=true&theme=vision-friendly-dark)
 
 ## 📫 Como me encontrar
 - **LinkedIn:** [linkedin.com/in/guilhermedqueiroz](https://www.linkedin.com/in/guilhermedqueiroz)
