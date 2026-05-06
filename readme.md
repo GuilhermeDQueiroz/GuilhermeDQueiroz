@@ -60,12 +60,10 @@
 - **Controle de Acesso Power BI + Supabase:** Implementação de camadas de segurança e autenticação personalizada para relatórios.
 
 ## 📊 Minhas Estatísticas
-
-![Estatísticas de Guilherme](https://github-readme-stats.vercel.app/api?username=GuilhermeDQueiroz&show_icons=true&theme=dark)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDQueiroz&layout=compact&theme=dark)
-
-## 📫 Como me encontrar
-- **LinkedIn:** [linkedin.com/in/guilhermedqueiroz](https://www.linkedin.com/in/guilhermedqueiroz)
-
----
+<p align="center">
+  <a href="https://github.com/GuilhermeDQueiroz">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeDQueiroz&theme=prussian" alt="Resumo do Perfil"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeDQueiroz&show_icons=true&theme=prussian&include_all_commits=true&count_private=true" alt="Estatísticas de GuilhermeDQueiroz"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDQueiroz&layout=compact&langs_count=7&theme=prussian" alt="Linguagens Mais Usadas"/>
+  </a>
+</p>
