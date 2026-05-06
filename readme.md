@@ -1,8 +1,14 @@
- <h1 align="center">Olá! Eu sou o Guilherme Diniz 👋</h1>
+<h1 align="center">Olá! Eu sou o Guilherme Diniz 👋</h1>
 <p align="center">
   <em>Estudante de Ciência da Computação e Desenvolvedor focado em transformar dados em decisões e construir soluções escaláveis. Atualmente baseado em Ubá, Minas Gerais.</em>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/guilhermedqueiroz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:gui007k2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
 
 ## 🚀 Sobre Mim
 - 🎓 Estudante de **Ciência da Computação**.
