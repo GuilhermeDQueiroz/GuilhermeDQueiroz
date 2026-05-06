@@ -53,11 +53,11 @@
 - **API Full-Stack Node.js + Firebird:** Solução robusta para integração de sistemas ERP com dashboards modernos em Vue.js.
 - **Controle de Acesso Power BI + Supabase:** Implementação de camadas de segurança e autenticação personalizada para relatórios.
 
-## 📊 GitHub Stats
+## 📊 Minhas Estatísticas
 
-![Minhas Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDQueiroz&layout=compact&theme=vision-friendly-dark)
+![Estatísticas de Guilherme](https://github-readme-stats.vercel.app/api?username=GuilhermeDQueiroz&show_icons=true&theme=dark)
 
-![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=GuilhermeDQueiroz&show_icons=true&theme=vision-friendly-dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDQueiroz&layout=compact&theme=dark)
 
 ## 📫 Como me encontrar
 - **LinkedIn:** [linkedin.com/in/guilhermedqueiroz](https://www.linkedin.com/in/guilhermedqueiroz)
