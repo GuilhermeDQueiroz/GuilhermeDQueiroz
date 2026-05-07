@@ -50,6 +50,7 @@
       <img src="https://img.shields.io/badge/Llama3-A020F0?style=for-the-badge" alt="Llama3">
       <img src="https://img.shields.io/badge/Ollama-1C1C1C?style=for-the-badge" alt="Ollama">
       <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      <img src="loading.gif" alt="Loading">
     </td>
   </tr>
 </table>
@@ -58,6 +59,7 @@
 - **Dashboard Logístico para Indústria Moveleira:** Um projeto de TCC focado em análise de dados para o polo moveleiro de Ubá, integrando Microsoft Fabric.
 - **API Full-Stack Node.js + Firebird:** Solução robusta para integração de sistemas ERP com dashboards modernos em Vue.js.
 - **Controle de Acesso Power BI + Supabase:** Implementação de camadas de segurança e autenticação personalizada para relatórios.
+- **Dashboard de finanças:** Dashboard de finanças pessoais moderno, responsivo e serverless que transforma planilhas do Google Sheets em Business Intelligence.
 
 ## 📊 Minhas Estatísticas
 <p align="center">
