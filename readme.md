@@ -73,9 +73,6 @@
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeDQueiroz&theme=prussian" alt="Resumo do Perfil"/>
   </a>
 </p>
-
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeDQueiroz/GuilhermeDQueiroz/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeDQueiroz/GuilhermeDQueiroz/output/pacman-contribution-graph.svg">
