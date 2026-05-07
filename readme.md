@@ -50,7 +50,7 @@
       <img src="https://img.shields.io/badge/Llama3-A020F0?style=for-the-badge" alt="Llama3">
       <img src="https://img.shields.io/badge/Ollama-1C1C1C?style=for-the-badge" alt="Ollama">
       <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-      <img src="loading.gif" alt="Loading">
+      <img src="loading.gif" width="10px" alt="Loading">
     </td>
   </tr>
 </table>
